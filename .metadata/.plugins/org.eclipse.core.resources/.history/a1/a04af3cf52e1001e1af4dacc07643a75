@@ -1,0 +1,15 @@
+package examen;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class FechaTest {
+	Fecha f1 = new Fecha();
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}
