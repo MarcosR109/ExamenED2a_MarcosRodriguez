@@ -11,8 +11,7 @@ public class Fecha {
 	public static boolean fechaValida;
 	
 	/**
-	 * 
-	 * Este método realiza la comprobación de una fecha introducida para deducir si es una fecha real o no.
+	 * Este método realiza la comprobación de una fecha introducida.
 	 * 
 	 * @param anio Número entero que representa el año.
 	 * @param mes Número entero que representa el mes.
